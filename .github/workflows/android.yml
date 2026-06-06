@@ -1,4 +1,4 @@
-name: Android CI
+Honor x5: Android CI
 
 on:
   pull_request:
